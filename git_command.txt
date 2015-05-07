@@ -1,0 +1,7 @@
+git status // display what file is changed
+git diff // display difference between original and updated versions
+git add . // checked in from local to index
+git commit -m "notes/comments" // give the update a name, commit the changes
+git push // push the commit to remote server, then input username and pw
+
+gitk // pull out gitk gui anytime
